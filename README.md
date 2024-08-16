@@ -17,6 +17,8 @@ Email Validation: If the email format is incorrect, an error message is displaye
 Registration Confirmation: Upon successful registration, a confirmation message is displayed indicating that the registration is complete.
 
 
+![Screenshot 2024-08-16 194830](https://github.com/user-attachments/assets/33570d1e-779b-4ba7-bc03-cbc75d3b73bd)
+
 ![Screenshot 2024-08-16 193748](https://github.com/user-attachments/assets/fe01f698-6328-421c-8503-ff62d1eea4a0)
 
 ![Screenshot 2024-08-16 194006](https://github.com/user-attachments/assets/ccedb4e7-0284-439f-ba11-a61c8e923281)
